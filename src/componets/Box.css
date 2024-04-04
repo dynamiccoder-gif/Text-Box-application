@@ -1,0 +1,11 @@
+.boxtext
+{ 
+    height: 200PX;
+    width: 85%;
+    border: 2px solid rgb(121, 237, 239);
+   
+}
+button{
+    margin: 5px;
+    border-radius: 7px;
+}
